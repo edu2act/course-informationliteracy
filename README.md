@@ -1,26 +1,23 @@
-# ÐÅÏ¢ËØÑøÓëÊµ¼ù£¨Ò»£©
+# ä¿¡æ¯ç´ å…»ä¸Žå®žè·µï¼ˆä¸€ï¼‰
 
 
-> ±¾¿Î³ÌÊÇ2017¼¶Ñ§Éú×¨Òµ±ØÐÞ¿Î£¬Ö÷Òª½éÉÜÐÅÏ¢ËØÑøµÄÄÚÈÝ¼°ÒªÇó£¬ÒÔ¼°¼ÆËã»úµÄ²Ù×÷ÓëÎ¬»¤¡¢ÍøÒ³ä¯ÀÀÆ÷µÄ¸ß¼¶ËÑË÷¼¼ÇÉ¡¢ÐéÄâ»úµÄ»ù±¾²Ù×÷¡¢Photoshop»ù±¾²Ù×÷¡¢GitÓëGitHubµÈ£»
+> æœ¬è¯¾ç¨‹æ˜¯2017çº§å­¦ç”Ÿä¸“ä¸šå¿…ä¿®è¯¾ï¼Œä¸»è¦ä»‹ç»ä¿¡æ¯ç´ å…»çš„å†…å®¹åŠè¦æ±‚ï¼Œä»¥åŠè®¡ç®—æœºçš„æ“ä½œä¸Žç»´æŠ¤ã€ç½‘é¡µæµè§ˆå™¨çš„é«˜çº§æœç´¢æŠ€å·§ã€è™šæ‹Ÿæœºçš„åŸºæœ¬æ“ä½œã€PhotoshopåŸºæœ¬æ“ä½œã€Gitä¸ŽGitHubç­‰ï¼›
 
 &nbsp;
 
-## ¿Î³Ì´ó¸Ù
+## è¯¾ç¨‹å¤§çº²
 
 
-| ÕÂ½Ú | ¼ò½é | ×ÊÁÏ |
+| ç« èŠ‚ | ç®€ä»‹ | èµ„æ–™ |
 |-----|-----|-----|
-|01_¿Î³Ì¸ÅÊö|¿Î³Ì¿ò¼Ü¡¢¿Î³ÌÐÎÊ½¡¢ÈÏÊ¶ÐÅÏ¢ËØÑø|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/01-course-verview.pptx)|
-|02_ÍøÒ³´¦ÀíÈí¼þ|¼ìË÷¼¼ÇÉ¡¢ÎÄÏ×¼ìË÷¡¢³£ÓÃÍøÕ¾¡¢ä¯ÀÀÆ÷µÄ¼òµ¥Ê¹ÓÃ|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/02-web-browser-processes.ppt)|
-|03_¼ÆËã»ú»ù±¾²Ù×÷¼°¹ÜÀí|ËÑ¹·ÊäÈë·¨¡¢¼ÆËã»ú»ù±¾²Ù×÷¡¢¼ÆËã»ú»ù±¾Î¬»¤¡¢¼ÆËã»ú»ù±¾¹ÊÕÏ´¦Àí|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/03-computer-operation-and-management.ppt)|
-|04_ÐÅÏ¢¹ÜÀí|ÎÄ¼þÀà±ð¡¢ÃüÃû¹æ·¶¡¢ÎÄ¼þ¹ÜÀí|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/04-information-management.ppt)|
-|05_³£ÓÃDOSÃüÁî|DOS¼ò½é¡¢DOS»ù±¾ÖªÊ¶¡¢DOS³£ÓÃÃüÁî|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/05-common-DOS-commands.pptx)|
-|06_GitÓëGitHub|°æ±¾¿ØÖÆÏµÍ³½éÉÜ¡¢GitÓëGitHub¼ò½é¡¢GitHubÕË»§×¢²áÓë¹ÜÀí¡¢¹¤×÷Çø-±¾µØ²Ö¿â-Ô¶³Ì²Ö¿â¡¢´´½¨°æ±¾¿â¡¢ÐÞ¸Ä¹ÜÀí¡¢³åÍ»½â¾ö|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/06-Git-GitHub.pptx)|
-|07_ÐéÄâ»ú|ÐéÄâ»úµÄÈÏÊ¶¡¢¼ò½éÓë°²×°¡¢°²×°ÏµÍ³¡¢ÍøÂçÉèÖÃ¡¢¿ìÕÕ¡¢ÎÄ¼þ¹²Ïí|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/07-virtual-machine.pptx)|
-|08_Ë¼Î¬µ¼Í¼ÓëMindmanager|Ë¼Î¬µ¼Í¼¸ÅÊö¡¢Ë¼Î¬µ¼Í¼»æÖÆ¡¢Ë¼Î¬µ¼Í¼×÷ÓÃÓëÌØµã|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/08-mind-map-and-Mindmanager.pptx)|
-|09_Photoshop»ù±¾²Ù×÷|Ó¦ÓÃÁìÓò¡¢°¸ÀýÉÍÎö¡¢½çÃæ²¼¾Ö¡¢ÎÄ¼þ²Ù×÷¡¢³£ÓÃ¹¤¾ß|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/09-Photoshop-basic-operation.pptx)|
-|10_1_CamtasiaStudio»ù±¾²Ù×÷|CamtasiaStudio¼ò½é¡¢ÊÓÆµÂ¼ÖÆ¡¢ºóÆÚ±à¼­¼°Éú³É|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/10-1-CamtasiaStudio-basic-operation.pptx)|
-|10_2_¸£ê¿ÔÄ¶ÁÆ÷±êÇ©Ê¹ÓÃ|¸£ê¿ÔÄ¶ÁÆ÷¼ò½é¡¢±êÇ©¹ÜÀí|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/10-2-Foxit-reader-bookmarks-usage.pptx)|
+|01_è¯¾ç¨‹æ¦‚è¿°|è¯¾ç¨‹æ¡†æž¶ã€è¯¾ç¨‹å½¢å¼ã€è®¤è¯†ä¿¡æ¯ç´ å…»|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/01-course-verview.pptx)|
+|02_ç½‘é¡µå¤„ç†è½¯ä»¶|æ£€ç´¢æŠ€å·§ã€æ–‡çŒ®æ£€ç´¢ã€å¸¸ç”¨ç½‘ç«™ã€æµè§ˆå™¨çš„ç®€å•ä½¿ç”¨|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/02-web-browser-processes.ppt)|
+|03_è®¡ç®—æœºåŸºæœ¬æ“ä½œåŠç®¡ç†|æœç‹—è¾“å…¥æ³•ã€è®¡ç®—æœºåŸºæœ¬æ“ä½œã€è®¡ç®—æœºåŸºæœ¬ç»´æŠ¤ã€è®¡ç®—æœºåŸºæœ¬æ•…éšœå¤„ç†|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/03-computer-operation-and-managerment.ppt)|
+|04_ä¿¡æ¯ç®¡ç†|æ–‡ä»¶ç±»åˆ«ã€å‘½åè§„èŒƒã€æ–‡ä»¶ç®¡ç†|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/04-information-management.ppt)|
+|05_å¸¸ç”¨DOSå‘½ä»¤|DOSç®€ä»‹ã€DOSåŸºæœ¬çŸ¥è¯†ã€DOSå¸¸ç”¨å‘½ä»¤|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/05-DOS.pptx)|
+|06_Gitä¸ŽGitHub|ç‰ˆæœ¬æŽ§åˆ¶ç³»ç»Ÿä»‹ç»ã€Gitä¸ŽGitHubç®€ä»‹ã€GitHubè´¦æˆ·æ³¨å†Œä¸Žç®¡ç†ã€å·¥ä½œåŒº-æœ¬åœ°ä»“åº“-è¿œç¨‹ä»“åº“ã€åˆ›å»ºç‰ˆæœ¬åº“ã€ä¿®æ”¹ç®¡ç†ã€å†²çªè§£å†³|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/06-Github.pptx)|
+|07_è™šæ‹Ÿæœº|è™šæ‹Ÿæœºçš„è®¤è¯†ã€ç®€ä»‹ä¸Žå®‰è£…ã€å®‰è£…ç³»ç»Ÿã€ç½‘ç»œè®¾ç½®ã€å¿«ç…§ã€æ–‡ä»¶å…±äº«|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/07-virtual-machine.pptx)|
+|08_excel|excelä¸­å…¬å¼ã€å›¾æ ‡ã€æŽ’åºã€ç­›é€‰ç­‰|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/08-Excel.ppt)|
+|09_ppt|åŠ¨ç”»ã€åˆ‡æ¢ã€æ¯ç‰ˆã€æ¨¡æ¿çš„åº”ç”¨|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/09-PPT.ppt)|
 
-
->						×ÊÁÏÕûÀí¼°Ìá½» Àîçâçâ
+>						èµ„æ–™æ•´ç†åŠæäº¤ ä¸è•¾è•¾
