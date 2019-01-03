@@ -10,7 +10,7 @@
 
 | 章节 | 简介 | 资料 |
 |-----|-----|-----|
-|01_课程概述|课程框架、课程形式、认识信息素养|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />slides](/ppt/01-course-verview.pptx)|
+|01_课程概述|课程框架、课程形式、认识信息素养|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />slides](/materials/slides/01-course-verview.pptx)|
 |02_网页处理软件|检索技巧、文献检索、常用网站、浏览器的简单使用|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />slides](/ppt/02-web-browser-processes.ppt)|
 |03_计算机基本操作及管理|搜狗输入法、计算机基本操作、计算机基本维护、计算机基本故障处理|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />slides](/ppt/03-computer-operation-and-managerment.ppt)|
 |04_信息管理|文件类别、命名规范、文件管理|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ppt/04-information-management.ppt)|
